@@ -115,7 +115,7 @@ public class ServiceFunctionalities {
 					}
 
 				} else {
-					System.out.println("train 1 is filled up");
+					System.out.println("train 3 is filled up");
 				}
 				break;
 			}
